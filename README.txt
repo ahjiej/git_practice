@@ -1,1 +1,1 @@
-This is just a folder to practice Git
+This is just a repository to practice Git
